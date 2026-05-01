@@ -1,5 +1,5 @@
-Dom Casmurro - Machado de Assis - 1899
-O Cortico - Aluisio Azevedo - 1890
-Mistborn: O Imperio Final - Brandon Sanderson - 2006
-Mistborn: O Poco da Ascensao - Brandon Sanderson - 2007
-Mistborn: O Heroi das Eras - Brandon Sanderson - 2008
+Dom Casmurro - Machado de Assis - 1899 - Genero: Romance
+O Cortico - Aluisio Azevedo - 1890 - Genero: Naturalismo
+Mistborn: O Imperio Final - Brandon Sanderson - 2006 - Genero: Fantasia
+Mistborn: O Poco da Ascensao - Brandon Sanderson - 2007 - Genero: Fantasia
+Mistborn: O Heroi das Eras - Brandon Sanderson - 2008 - Genero: Fantasia
